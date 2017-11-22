@@ -46,7 +46,7 @@ public class Display extends Activity {
             }
         });
         //String[] items = new String[]{"192.168.1.26/atchayamTV", "192.168.1.47:8000/menu_display/bigtv", "192.168.1.47:9090","192.168.1.47:8000/menu_display/tv"};
-        String[] items = new String[]{ "192.168.1.147:3000","192.168.1.47:8000/menu_display/tv","192.168.1.47:9090"};
+        String[] items = new String[]{ "192.168.1.147:3000","192.168.1.47:8000/menu_display/tv","192.168.1.47:9090","192.168.2.147:3000","192.168.2.47:8000/menu_display/tv","192.168.2.47:9090"};
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, items);
         dropdown.setAdapter(adapter);
     }

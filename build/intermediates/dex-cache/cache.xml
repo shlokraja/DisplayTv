@@ -3,138 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jar="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_d5dde430e9e33a5c85c5e101e15d4cf4b54ae99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saravanaganesh.l\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_bd6f71bd5e200b1ae129054fc4c17c6e70f1bd0e.jar" />
+        <dex dex="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_52a1c16d9fe85e63d544c9afea4ddc50ab9f0eff.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jar="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_1a39607eeffbc4f277d6ff53d03ba2efecd86c6a.jar" />
+        <dex dex="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_d6646f417919b5f9eb76aa13467cd0705c772ef4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\TV\DisplayTv\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="E:\TV\DisplayTv\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_e298057ae487cdc8301a568b4c91fed785dc0896.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_0f55fbd1cc8307857dfaf3448be02c813421796c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayTv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="b162e86fd6f676d9ec4d44c96545edea2c860120">
-        <dex dex="E:\TV\DisplayTv\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_92b085e8cace6142f590c57c9946e737adfbe0c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jar="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_4fdd0d34d71d3e4e40e8a0b8630da7b906f6eccb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="46a81020797345651af7e079ce8c6c7e92453067">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3ca73019e9c6e980a43f36bcb6222f5993bf2293.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_4fdd0d34d71d3e4e40e8a0b8630da7b906f6eccb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3d97f548e7337b53d000bcdc8ca2179f87293530">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\instant-run_e1c9ffa9220d0dbee2a064be32f13c885cd0102c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_0f55fbd1cc8307857dfaf3448be02c813421796c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayTv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0f93784883ea50e3723c6738cfec6e474205006d">
-        <dex dex="E:\TV\DisplayTv\app\build\intermediates\pre-dexed\debug\instant-run_28076e80fd6dde8884ae5dcb25c1acef87e40421.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayKitKat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_1a39607eeffbc4f277d6ff53d03ba2efecd86c6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="E:\TV\DisplayKitKat\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_bd6f71bd5e200b1ae129054fc4c17c6e70f1bd0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayTv\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="E:\TV\DisplayTv\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_916725ddb17a127156b1b220d499a13936d66ef2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\TV\DisplayTv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="E:\TV\DisplayTv\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_5b6714479213a950c53485182de5b3cfe77a5c45.jar" />
+        <dex dex="E:\project\TVDisplay\DisplayTv-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_c8b16c00303182f8caed6adc9f3a32cd82f2e744.jar" />
     </item>
 
 </items>
